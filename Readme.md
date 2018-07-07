@@ -1,4 +1,4 @@
-** Simple blog site developed using Flask
+## Simple blog site developed using Flask
 
 This blog site has following functionalities:
 1. Account registration.
@@ -8,9 +8,9 @@ This blog site has following functionalities:
 5. View account information.
 6. Updating password and or email.
 
-__**Use below config file to debug in vscode**__
+**__Use below config file to debug in vscode__**
 
-'''
+```
 
 {
             "name": "Python: Flask (0.11.x or later)",
@@ -31,4 +31,5 @@ __**Use below config file to debug in vscode**__
                 //"--no-reload"
             ]
         }
-    '''
+        
+    ```
